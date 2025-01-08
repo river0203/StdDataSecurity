@@ -5,9 +5,9 @@ typedef struct {
 	char user_name[10];
 } User;
 
-int main(void)
+/*int main(void)
 {
-	/*program init*/
+	
 
 	printf("================================================================\n");
 	printf("=                     passward programme                       =\n");
@@ -21,4 +21,4 @@ int main(void)
 
 
 	return 0;
-}
+}*/
